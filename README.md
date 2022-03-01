@@ -1,2 +1,3 @@
 # Projeto1-Universidade
- Projeto inicial para um site de universidade com apenas HTML feito no curso de desenvolvimento web da Udemy
+ Projeto inicial para um site de universidade utilizando apenas HTML5,com o fim de fixar os conceitos principais de HTML5, feito no curso de desenvolvimento web da Udemy.
+ Segue o link do site: [Unes Universidade] (https://douglas-jos.github.io/Projeto1-Universidade/)
